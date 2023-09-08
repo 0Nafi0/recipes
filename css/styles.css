@@ -1,0 +1,18 @@
+body {
+    background-color: #EBEF95;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.main-header {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
